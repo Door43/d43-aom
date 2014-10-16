@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aom:home|Door43 (aom)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aom|d43-aom repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aom/archive/master.zip|d43-aom.zip]]
+
+**Recent Changes**
+{{changes>ns = aom}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aom|Ethnologue data]]
+
